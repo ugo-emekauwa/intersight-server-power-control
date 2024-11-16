@@ -24,7 +24,7 @@
    ```
 4. Clone or download the **Automated Server Power Control Tool for Cisco Intersight** repository by using the ![GitHub Code Button](./assets/GitHub_Code_Button.png "GitHub Code Button") link on the main repository web page or by running the following command from the target directory if Git is locally installed:
     ```
-    git clone https://github.com/ugo-emekauwa/intersight-server-power-control 
+    git clone https://github.com/ugo-emekauwa/intersight-server-power-control
     ```
    If you are downloading the repository file as a zipped file, unzip the file once the download has completed.
 5. Generate a version 3 or version 2 API key from your Intersight account.
@@ -58,7 +58,7 @@
       ![Figure 7 - Copy and save the API key data](./assets/Figure_7_Copy_and_save_the_API_key_data.png "Figure 7 - Copy and save the API key data")
 
 ## How to Use
-1. Please ensure that the above [**Prerequisites**](https://github.com/ugo-emekauwa/intersight-server-power-control #prerequisites) have been met.
+1. Please ensure that the above [**Prerequisites**](https://github.com/ugo-emekauwa/intersight-server-power-control#prerequisites) have been met.
 2. Within the unzipped **Automated Server Power Control Tool for Cisco Intersight** repository, navigate to the intersight_server_power_control.py file.
 3. Edit the intersight_server_power_control.py file to set the **`key_id`** variable using the following instructions:
 
