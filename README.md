@@ -1,4 +1,4 @@
-<h1 align="center">Automated Server Power Control Tool for Cisco Intersight</h1>
+<h1 align="center">Automated Server Power Control for Cisco Intersight</h1>
 
 <br>
 <p align="center">
@@ -6,7 +6,7 @@
 </p>  
 <br>
 <p align="center">
-  The Automated Server Power Control Tool for Cisco Intersight automates the power state of multiple UCS servers managed by Intersight.
+  The Automated Server Power Control Tool for Cisco Intersight automates the power state of multiple UCS servers managed by Intersight. Quickly perform "Power On", "Power Off", "Power Cycle", "Hard Reset", "Shutdown", and "Reboot CIMC" operations on large groups of servers.
 </p>
 <br>
 
@@ -22,7 +22,7 @@
    ```
    pip install intersight --upgrade --user
    ```
-4. Clone or download the **Automated Server Power Control Tool for Cisco Intersight** repository by using the ![GitHub Code Button](./assets/GitHub_Code_Button.png "GitHub Code Button") link on the main repository web page or by running the following command from the target directory if Git is locally installed:
+4. Clone or download the **Automated Server Power Control for Cisco Intersight** repository by using the ![GitHub Code Button](./assets/GitHub_Code_Button.png "GitHub Code Button") link on the main repository web page or by running the following command from the target directory if Git is locally installed:
     ```
     git clone https://github.com/ugo-emekauwa/intersight-server-power-control
     ```
@@ -59,7 +59,7 @@
 
 ## How to Use
 1. Please ensure that the above [**Prerequisites**](https://github.com/ugo-emekauwa/intersight-server-power-control#prerequisites) have been met.
-2. Within the unzipped **Automated Server Power Control Tool for Cisco Intersight** repository, navigate to the intersight_server_power_control.py file.
+2. Within the unzipped **Automated Server Power Control for Cisco Intersight** repository, navigate to the intersight_server_power_control.py file.
 3. Edit the intersight_server_power_control.py file to set the **`key_id`** variable using the following instructions:
 
     **(a).** Open the intersight_server_power_control.py file in an IDLE or text editor of choice.
@@ -111,7 +111,7 @@
 7. Run the intersight_server_power_control.py file.
 
 ## Demonstrations and Learning Labs
-The Automated Server Power Control Tool for Cisco Intersight is used to power the following demonstrations and labs on Cisco dCloud:
+The Automated Server Power Control Tool for Cisco Intersight is used in the following demonstrations and labs on Cisco dCloud:
 
 - [Running Gen AI and LLMs on Cisco UCS X-Series with NVIDIA GPUs](https://dcloud2.cisco.com/demo/ai-workloads-on-cisco-ucs-x-series-v1)
 <br><br>
